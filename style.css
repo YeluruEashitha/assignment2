@@ -1,0 +1,12 @@
+.list{
+    background-color: black;
+    color: white;
+    display: flex;
+    margin-inline:300px auto ;
+}
+.ordered{
+    padding: 100px;
+}
+.unordered{
+    padding: 100px;
+}
